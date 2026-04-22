@@ -34,6 +34,6 @@ Building fast, scalable web apps (frontend + backend)
 
 ```bash
 email: ramzi.d3v@gmail.com
-portfolio: ramzi.vercel.app
+portfolio: ramzi-dev-dun.vercel.app 
 ```
 
